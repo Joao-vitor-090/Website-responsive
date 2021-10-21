@@ -11,12 +11,8 @@
         <main 
         style="background-color: #FF8E72;
         display:block; margin: 10em 10em 10em 10em;padding:1em; border-radius: 50px;">
-            <p 
-            style="font-size: 17px;font-family: Arial, Helvetica, sans-serif;font-weight: normal;font-style: normal;text-align: center;">
-
             Aqui se localiza um projeto que fiz! Apliquei alguns conhecimentos de HTML5 e CSS3.
-            Acesse o meu Projeto clicando <a href="https://joao-vitor-090.github.io/Projetos/" style="font-style: normal;text-decoration: none;
-            font-weight:bolder; color: white;"
+            Acesse o meu Projeto clicando <a href="https://joao-vitor-090.github.io/Projetos/
             >aqui.</a>
             </p>
         </main>
